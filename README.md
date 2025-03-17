@@ -1,15 +1,14 @@
-Description
-This is an educational banking application designed for learning the basics of frontend development. 
+##Description \n
 It's a static website that allows users to perform basic banking operations, 
 such as checking their balance, depositing, withdrawing money, and delete the account.
 
-Features:
+##Features:
 - Display account balance;
 - Ability to deposite and withdraw money;
 - Minimalistdesign;
 - Simple input validation.
 
-Technologies Used:
+##Technologies Used:
 - HTML – page structure;
 - CSS – styling;
 - JavaScript (Vanilla JS) – application logic.
